@@ -14,7 +14,7 @@ example:
 */
 TMatrix *mx_from_file(char *filename) {
 	FILE *f;
-	int colCount = 3, rowCount = 3;
+	int colCount = 0, rowCount = 0;
 	int n;
 	int i, j;
 	double value;
