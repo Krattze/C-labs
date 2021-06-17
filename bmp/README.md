@@ -1,0 +1,1 @@
+# BMP decrease brightness
